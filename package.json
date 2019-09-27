@@ -1,0 +1,31 @@
+{
+  "name": "supersonic-flow",
+  "version": "1.0.0",
+  "description": "calculator for properties of supersonic flows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armancodv/supersonic-flow.git"
+  },
+  "keywords": [
+    "supersonic",
+    "flow",
+    "Isentropic",
+    "Flow",
+    "Normal",
+    "Shock",
+    "Oblique",
+    "Shock",
+    "Expansion",
+    "Fan"
+  ],
+  "author": "Arman Kolahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armancodv/supersonic-flow/issues"
+  },
+  "homepage": "https://github.com/armancodv/supersonic-flow#readme"
+}

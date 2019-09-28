@@ -1,6 +1,6 @@
 {
   "name": "supersonic-flow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "calculator for properties of supersonic flows",
   "main": "index.js",
   "scripts": {

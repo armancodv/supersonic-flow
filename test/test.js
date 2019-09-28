@@ -11,6 +11,3 @@ console.log(obliqueShock);
 
 const expansionFan = supersonicFlow.expansionFan(2, 20);
 console.log(expansionFan);
-
-
-
